@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-nunito: Nunito;
+  --title-h2: "Playfair Display";
+  --font-poppins: Poppins;
+  --body-18: Raleway;
+  --font-comfortaa: Comfortaa;
+
+  /* font sizes */
+  --body-18-size: 18px;
+  --font-size-5xl: 24px;
+  --title-h2-size: 48px;
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+  --title-h1-size: 64px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --brand-yellow: #fdc435;
+  --font-medium-emphasis: #828282;
+  --font-high-emphasis: #25282b;
+
+  /* Gaps */
+  --gap-13xl: 32px;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+  --padding-5xl: 24px;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+}
